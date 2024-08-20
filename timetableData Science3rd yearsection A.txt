@@ -1,0 +1,502 @@
+DAY - MON
+GROUP – GR. 1 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3141/SJS/ICT305 L/CSEN3144/NB/ICT308
+
+GROUP – GR. 1 TIME - 10.00 AM – 11.00 AM
+CLASS - L/CSEN3101/ART/ICT304
+
+GROUP – GR. 1 TIME - 11.0 AM – 12.00 AM
+CLASS - L/CSEN3002/NF2/CME512
+
+GROUP – GR. 1 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 1 TIME - 1.00 PM – 2.00 PM
+CLASS - L/CSEN3002/NF2/CME512
+
+GROUP – GR. 1 TIME - 2.00 PM – 3.00 PM
+CLASS - CSEN3105/DBS/CB512
+
+GROUP – GR. 1 TIME - 3.00 PM – 4.00 PM
+CLASS - LAB/CSEN3171/DBK(SM+DS)/CB315
+
+GROUP – GR. 1 TIME - 4.00 PM – 5.00 PM
+CLASS - LAB/CSEN3171/DBK(SM+DS)/CB315
+
+GROUP – GR. 1 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3141/SJS/ICT305 L/CSEN3144/NB/ICT308
+
+GROUP – GR. 2 TIME - 10.00 AM – 11.00 AM
+CLASS - L/CSEN3101/ART/ICT304
+
+GROUP – GR. 2 TIME - 11.0 AM – 12.00 AM
+CLASS - L/CSEN3002/NF2/CME512
+
+GROUP – GR. 2 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 2 TIME - 1.00 PM – 2.00 PM
+CLASS - L/CSEN3002/NF2/CME512
+
+GROUP – GR. 2 TIME - 2.00 PM – 3.00 PM
+CLASS - CSEN3105/DBS/CB512
+
+GROUP – GR. 2 TIME - 3.00 PM – 4.00 PM
+CLASS - LAB/CSEN3171/DBK(SM+DS)/CB315
+
+GROUP – GR. 2 TIME - 4.00 PM – 5.00 PM
+CLASS - LAB/CSEN3171/DBK(SM+DS)/CB315
+
+GROUP – GR. 2 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - TUE
+GROUP – GR. 1 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3101/ART/CB418
+
+GROUP – GR. 1 TIME - 10.00 AM – 11.00 AM
+CLASS - CSEN3105/DBS/CB418
+
+GROUP – GR. 1 TIME - 11.0 AM – 12.00 AM
+CLASS - L/CSEN3101/ART/CB418
+
+GROUP – GR. 1 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 1 TIME - 1.00 PM – 2.00 PM
+CLASS - LAB/CSEN3155/DS3/DBS(SC+SM)/gr-1/B08
+
+GROUP – GR. 1 TIME - 2.00 PM – 3.00 PM
+CLASS - LAB/CSEN3155/DS3/DBS(SC+SM)/gr-1/B08
+
+GROUP – GR. 1 TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3101/ART/CB418
+
+GROUP – GR. 2 TIME - 10.00 AM – 11.00 AM
+CLASS - CSEN3105/DBS/CB418
+
+GROUP – GR. 2 TIME - 11.0 AM – 12.00 AM
+CLASS - L/CSEN3101/ART/CB418
+
+GROUP – GR. 2 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 2 TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - WED
+GROUP – GR. 1 TIME - 9.00 AM – 10.00 AM
+CLASS - LAB/CSEN3157/DS3/RK(ABS+PD)/gr-1/ICTB10
+
+GROUP – GR. 1 TIME - 10.00 AM – 11.00 AM
+CLASS - LAB/CSEN3157/DS3/RK(ABS+PD)/gr-1/ICTB10
+
+GROUP – GR. 1 TIME - 11.0 AM – 12.00 AM
+CLASS - LAB/CSEN3157/DS3/RK(ABS+PD)/gr-1/ICTB10
+
+GROUP – GR. 1 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 1 TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 9.00 AM – 10.00 AM
+CLASS - LAB/CSEN3151/DS3/gr-2/ART(AD+TNB)/B11
+
+GROUP – GR. 2 TIME - 10.00 AM – 11.00 AM
+CLASS - LAB/CSEN3151/DS3/gr-2/ART(AD+TNB)/B11
+
+GROUP – GR. 2 TIME - 11.0 AM – 12.00 AM
+CLASS - LAB/CSEN3151/DS3/gr-2/ART(AD+TNB)/B11
+
+GROUP – GR. 2 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 2 TIME - 1.00 PM – 2.00 PM
+CLASS - LAB/CSEN3155/DS3/DBS(SC+SHS)/gr-2/ICTB02
+
+GROUP – GR. 2 TIME - 2.00 PM – 3.00 PM
+CLASS - LAB/CSEN3155/DS3/DBS(SC+SHS)/gr-2/ICTB02
+
+GROUP – GR. 2 TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - THU
+GROUP – GR. 1 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3002/NF2/ICT305
+
+GROUP – GR. 1 TIME - 10.00 AM – 11.00 AM
+CLASS - L/CSEN3107/SDB/ICT305
+
+GROUP – GR. 1 TIME - 11.0 AM – 12.00 AM
+CLASS - CSEN3105/DBS/ICT305
+
+GROUP – GR. 1 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 1 TIME - 1.00 PM – 2.00 PM
+CLASS - LAB/CSEN3151/DS3/gr-1/ART(AD+SDM)/B07
+
+GROUP – GR. 1 TIME - 2.00 PM – 3.00 PM
+CLASS - LAB/CSEN3151/DS3/gr-1/ART(AD+SDM)/B07
+
+GROUP – GR. 1 TIME - 3.00 PM – 4.00 PM
+CLASS - LAB/CSEN3151/DS3/gr-1/ART(AD+SDM)/B07
+
+GROUP – GR. 1 TIME - 4.00 PM – 5.00 PM
+CLASS - Mentoring
+
+GROUP – GR. 1 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3002/NF2/ICT305
+
+GROUP – GR. 2 TIME - 10.00 AM – 11.00 AM
+CLASS - L/CSEN3107/SDB/ICT305
+
+GROUP – GR. 2 TIME - 11.0 AM – 12.00 AM
+CLASS - CSEN3105/DBS/ICT305
+
+GROUP – GR. 2 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 2 TIME - 1.00 PM – 2.00 PM
+CLASS - LAB/CSEN3157/DS3/SDB(SHS+NTA1)/gr-2/ICT201
+
+GROUP – GR. 2 TIME - 2.00 PM – 3.00 PM
+CLASS - LAB/CSEN3157/DS3/SDB(SHS+NTA1)/gr-2/ICT201
+
+GROUP – GR. 2 TIME - 3.00 PM – 4.00 PM
+CLASS - LAB/CSEN3157/DS3/SDB(SHS+NTA1)/gr-2/ICT201
+
+GROUP – GR. 2 TIME - 4.00 PM – 5.00 PM
+CLASS - Mentoring
+
+GROUP – GR. 2 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - FRI
+GROUP – GR. 1 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3002/NF2/CB418
+
+GROUP – GR. 1 TIME - 10.00 AM – 11.00 AM
+CLASS - L/CSEN3107/SDB/CB418
+
+GROUP – GR. 1 TIME - 11.0 AM – 12.00 AM
+CLASS - L/CSEN3141/SJS/ICT312 L/CSEN3144/NB/ICT204
+
+GROUP – GR. 1 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 1 TIME - 1.00 PM – 2.00 PM
+CLASS - L/CSEN3141/SJS/ICT312 L/CSEN3144/NB/ICT204
+
+GROUP – GR. 1 TIME - 2.00 PM – 3.00 PM
+CLASS - Remedial/ICT204
+
+GROUP – GR. 1 TIME - 3.00 PM – 4.00 PM
+CLASS - L/CSEN3101/ART/CB512
+
+GROUP – GR. 1 TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – GR. 1 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 9.00 AM – 10.00 AM
+CLASS - L/CSEN3002/NF2/CB418
+
+GROUP – GR. 2 TIME - 10.00 AM – 11.00 AM
+CLASS - L/CSEN3107/SDB/CB418
+
+GROUP – GR. 2 TIME - 11.0 AM – 12.00 AM
+CLASS - L/CSEN3141/SJS/ICT312 L/CSEN3144/NB/ICT204
+
+GROUP – GR. 2 TIME - 12.00 PM – 01.00 PM
+CLASS - BREAK
+
+GROUP – GR. 2 TIME - 1.00 PM – 2.00 PM
+CLASS - L/CSEN3141/SJS/ICT312 L/CSEN3144/NB/ICT204
+
+GROUP – GR. 2 TIME - 2.00 PM – 3.00 PM
+CLASS - Remedial/ICT204
+
+GROUP – GR. 2 TIME - 3.00 PM – 4.00 PM
+CLASS - L/CSEN3101/ART/CB512
+
+GROUP – GR. 2 TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – GR. 2 TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - nan
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - To be Effective from 18.07.2024
+A minimum of 75% attendance is mandatory for being eligible to sit for the End-Semester Examination
+Students should target 100% attendance
+
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - nan
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - nan
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - nan
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - nan
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - nan
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
+
+DAY - Member                                                                                           HOD                                                                                               Principal  
+
+GROUP – nan TIME - 9.00 AM – 10.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 10.00 AM – 11.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 11.0 AM – 12.00 AM
+CLASS - no class
+
+GROUP – nan TIME - 12.00 PM – 01.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 1.00 PM – 2.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 2.00 PM – 3.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 3.00 PM – 4.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 4.00 PM – 5.00 PM
+CLASS - no class
+
+GROUP – nan TIME - 5.00 PM – 6.00 PM
+CLASS - no class
